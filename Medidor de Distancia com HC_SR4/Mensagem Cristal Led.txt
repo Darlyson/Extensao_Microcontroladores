@@ -1,0 +1,8 @@
+Mensagem Enviada para o bcd
+
+Posiciona em (1,0)
+144 Tanque 32 esta:---%
+
+
+
+144 {84 97 110 113 117 101} 32 {101 115 116 97} 58 {48+A 48+B 48+C 37}
